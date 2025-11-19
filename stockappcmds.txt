@@ -1,0 +1,5 @@
+conda activate streamlitenv
+
+cd C:\Users\Harsh\Desktop\StockApp
+
+streamlit run stock_lstm_app.py
